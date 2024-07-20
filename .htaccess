@@ -1,0 +1,14 @@
+Options -Indexes
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Security: Prevent access to .htaccess, .htpasswd, and any .ini files
+<FilesMatch "(\.htaccess|\.htpasswd|\.ini)">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+# Security: Prevent directory listing
+Options -Indexes
