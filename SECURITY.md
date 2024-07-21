@@ -16,7 +16,7 @@ If you discover a security vulnerability, please do the following:
 
 3. **Contact Information:**
     - **Name:** Endi Hariadi
-    - **Email:** endi.linux.mint@gmail.com
+    - **Email:** [endi.linux.mint@gmail.com](mailto:endi.linux.mint@gmail.com)
 
 ## Response Process
 
@@ -40,6 +40,10 @@ To ensure the security of your own environment when using our project, we recomm
 - **Monitor for vulnerabilities.** Regularly monitor for vulnerabilities in your environment and address them promptly.
 
 We appreciate your help in keeping our project secure. Thank you for your responsible disclosure and your commitment to improving the security of our project.
+
+## License
+
+This project is licensed under the GPL-3.0 License. For more information, see the [LICENSE](LICENSE) file.
 
 ---
 
