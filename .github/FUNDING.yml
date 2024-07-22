@@ -1,0 +1,38 @@
+github:
+  sponsors:
+    - Indonesia:
+        tier1:
+          - name: Gold Sponsor
+            description: |
+              Your company will receive high exposure on our repository, including logo placement on the README and our website.
+            icon: fas fa-medal
+            url: https://sponsor.example.com/gold
+
+        tier2:
+          - name: Silver Sponsor
+            description: |
+              Sponsors will get featured on the README and recognition on our social media channels.
+            icon: fas fa-medal
+            url: https://sponsor.example.com/silver
+
+        tier3:
+          - name: Bronze Sponsor
+            description: |
+              Your contribution will be listed on our contributors page, including a link to your website.
+            icon: fas fa-medal
+            url: https://sponsor.example.com/bronze
+
+        tier4:
+          - name: Community Sponsor
+            description: |
+              Provides crucial support to our community efforts, with recognition across our community platforms.
+            icon: fas fa-medal
+            url: https://sponsor.example.com/community
+
+    - International:
+        tier1:
+          - name: Global Sponsor
+            description: |
+              Provides global support for this repository, with the highest exposure across all our platforms.
+            icon: fas fa-globe
+            url: https://sponsor.example.com/global
